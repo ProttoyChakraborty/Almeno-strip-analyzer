@@ -55,7 +55,7 @@ Setup
    $ npm run dev
    ````
 
-4. In your browser Navigate to http://localhost:5127
+4. In your browser Navigate to http://localhost:5173
 
 
 ### Using docker-compose and Docker
@@ -66,6 +66,6 @@ Setup
    $ docker compose up
    ```
 
-2. In your browser Navigate to http://localhost:5127
+2. In your browser Navigate to http://localhost:5173
 
 
