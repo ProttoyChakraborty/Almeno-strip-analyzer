@@ -47,7 +47,7 @@ Setup
    $ uvicorn api:app
    ```
 
-3. Navigate to the frontend folder,install the required dependencies and start the webapp on port 5127
+3. Navigate to the frontend folder,install the required dependencies and start the webapp on port 5173
    
    ```
    $ cd ../frontend/
